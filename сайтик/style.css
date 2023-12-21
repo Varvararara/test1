@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+body {
+    margin: 0px;
+	background-color:#293F1C;
+}
+footer {
+   
+	background-color:#AA4543;
+}
+
+
+.flex-container_page{
+	 display: flex;
+    align-items: stretch;
+	flex-direction: row;
+   
+}
+.flex-container-pagegif{
+	display: flex;
+    align-items: start;
+	flex-direction: Column;
+    justify-content: center;
+}
+
+.flex-container-pagetext{
+	display: flex;
+    align-items: end;
+	flex-direction:column;
+    justify-content: center;}
+	
+.flex-container1 {
+	display: flex;
+    align-items: end;
+	flex-direction: row;
+    justify-content: center;
+	
+}
+    display: flex;
+    align-items: end;
+	flex-direction: row;
+    justify-content: center;
+	
+}
+.flex-container4 {
+    display: flex;
+    align-items: end;
+	flex-direction: column;
+    justify-content: center;
+	
+}
+
+.flex-container5 {
+    display: flex;
+    align-items: end;
+	flex-direction: row;
+    justify-content: left;
+	
+}
+.flex-container8 {
+    display: flex;
+    align-items: end;
+	flex-direction: column;
+    justify-content: center;
+	
+}
+.flex-container-menu {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    max-width: 100%;
+}
+.t1{
+color: white;
+font-size: 5.5em;
+    font-family: "Ubuntu";
+	margin: 10px;
+	margin-top: 0px;
+}
+.t11{
+color: white;
+font-size: 5.5em;
+    font-family: "Ubuntu";
+	margin:3px;
+	margin-top: 0px;
+}
+
+.flex-container2 {
+    display: flex;
+	flex: 0 0 7em;
+    background-color:#293F1C;
+    align-items: flex-start;
+    justify-content: flex-start;
+	
+    margin-top: 80px;
+    margin-bottom: 20px;
+    font-size: 1.4em;
+    font-family: "Ubuntu";
+}
+
+.flex-container3 {
+    display: flex;
+    align-items: baseline;
+    justify-content:space-evenly;
+}
+.flex-container6 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+	flex-direction: row;
+	
+	background-color:#93AF66;
+}
+
+.flex-container-name {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 30em;
+}
+
+.flex-container-text{
+display: flex;
+    align-items: center;
+	flex-direction: column;
+   color:white;
+	
+	
+}
+
+
+.flex-container-text1 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+	font-size:1.6em;
+	color:black;
+}
+
+.flex-item{
+    font-family: "Ubuntu";
+    font-size: 1.5em;
+    padding: 0.8em;
+    color:white;
+}
+.flex-item9{
+    font-family: "Ubuntu";
+    font-size: 1.5em;
+    padding: 0em;
+    color:white;
+}
+.flex-item2{
+   
+  margin-left: 1em;
+    margin-top: -14em; 
+    
+}
+
+.flex-item4{
+   
+  margin-left: 67em;
+margin-top: -14em; }
+.flex-item3{
+	margin-bottom:20em;
+    margin-left: 1em;
+    margin-top: 0em;
+    padding: 0em;
+    font-size: 1.5em;
+	color: #293F1C;
+	 font-family: "Ubuntu";
+}
+.flex-item8{
+	margin-bottom:20em;
+    margin-left: 1em;
+    margin-top: 0em;
+    padding: 0em;
+    font-size: 1.5em;
+	color: #293F1C;
+	 font-family: "Ubuntu";
+}
+.flex-item7{
+	margin-bottom:10em;
+    margin-right: -46em;
+    margin-top: 0em;
+    padding: 0em;
+    font-size: 1.5em;
+	color: #293F1C;
+	 font-family: "Ubuntu";
+}
+
+.text {
+    font-family: "Ubuntu";
+    font-size: 1.2em;
+    color: white;
+}
+
+.text1 {
+    font-family: "Ubuntu";
+    font-size: 1.3em;
+    color: #BABD43;
+    padding-bottom:50px;
+}
+
+.color1 {
+    background-color:#93AF66;
+}
+
+.color2 {
+    background-color: #AA4543;
+}
+
+.color3 {
+    color: black;
+}
+
+a.knopka {
+    color: black;
+    border: 2px solid #93AF66;
+    text-decoration: none;
+    user-select: none;
+    background:AA4543;
+    padding: .7em 1em;
+    border-color: #93AF66;
+    box-shadow: none;
+    font-family: "Ubuntu";
+    text-align: center;
+    font-size: 1.2em;
+}
+
+    a.knopka:hover {
+        background: #93AF66;
+        border: 2px solid #93AF66;
+        
+    }
+
+    
+
+.rectangle1 {
+    color: black;
+    border: 2px solid #93AF66;
+    text-decoration: none;
+    user-select: none;
+    background:AA4543;
+    padding: .7em 1.5em;
+    border-color:#93AF661;
+    box-shadow: none;
+    font-family: "Ubuntu";
+    text-align: center;
+    font-size: 1.2em;
+}
+
+
+
+
+.color{
+background-color:#93AF66;
+}
+.text2 {
+    font-family: "Ubuntu";
+    font-size: 0.7em;
+    color: #C7C7C7;
+    padding-bottom: 50px;
+}
+.p1 {
+	margin:10px;
+}
+.t2{
+	font-size: 1.5em;
+	color: #293F1C;
+	font-family: "Ubuntu";}
+	.tt2{
+	font-size: 1.5em;
+	color: white;
+	font-family: "Ubuntu";
+	margin: 20px;}
